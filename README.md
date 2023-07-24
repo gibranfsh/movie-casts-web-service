@@ -1,24 +1,17 @@
 # MovieCast Backend Web-Service
 
-This is the backend project for Campaign SD Backend Screening Test. It is built with NestJS and provides the API endpoints to manage movies and casts.
-
 ## Installation
 1. Clone Repository
 ```
-git clone https://<your-username>@bitbucket.org/campaignid/sd-backend-screening-test.git
+git clone https://github.com/gibranfsh/movie-casts-web-service.git
 ```
 
 2. Move to the folder
 ```
-cd sd-backend-screening-test
+cd movie-casts-web-service
 ```
 
-3. Checkout "be-junior-test-gibranfashaghazanfar" branch
-```
-git checkout be-junior-test-gibranfashaghazanfar
-```
-
-4. Install the dependencies
+3. Install the dependencies
 ```
 npm install
 ```
